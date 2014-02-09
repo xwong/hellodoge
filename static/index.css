@@ -1,0 +1,15 @@
+body {
+  background-color: #CCCCFF;
+  font-family: "Arial", sans-serif;
+}
+
+.hellodiv {
+  font-size: 40px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #FF00FF;
+}
+
+.tiny {
+  padding: 10px;
+  font-size: 10px;
+}
